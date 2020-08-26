@@ -7,6 +7,3 @@ end
 
 # rescue_princess_peach
 # puts status
-
-def rescue_princess_peach
-puts status
